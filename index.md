@@ -28,6 +28,7 @@ The exams will focus on the creation of database tables, as per provided specifi
 Office hours for prof. Palazzo are the following:
 - Wednesday, from 12:00 to 13:00
 - Thursday, from 12:00 to 13:00
-Prof. Palazzo's office is at Polo Tecnologico, Lab. Mednetna.
+
+Prof. Palazzo's office is at [Polo Tecnologico, Lab. Mednetna](https://maps.app.goo.gl/nS1dgQRW7JpBQemZ7).
 
 We suggest to contact the teacher's by e-mail before coming to the office.
