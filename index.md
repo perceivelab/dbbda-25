@@ -9,7 +9,7 @@ layout: default
 | Wednesday 9-11   |  MI6 @ DMI  |
 | Thursday 17-19   |  MI6 @ DMI  |
 
-#### News
+#### Info
 {: #tag}
 
 This course uses **Microsoft Teams** as the main communication channel for news, notices and student support. The code for entering the Team will be provided by the teachers during the course.
