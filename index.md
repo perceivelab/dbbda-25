@@ -12,7 +12,7 @@ layout: default
 #### Info
 {: #tag}
 
-This course uses **Microsoft Teams** as the main communication channel for news, notices and student support. The code for entering the Team will be provided by the teachers during the course.
+This course uses **Microsoft Teams** as the main communication channel for news, notices and student support. The code for entering the Team will be provided by the teachers during the course. It is **strongly** suggested to install the mobile app and enable notifications.
 
 #### Exams
 
