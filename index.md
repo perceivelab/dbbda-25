@@ -16,7 +16,7 @@ This course uses **Microsoft Teams** as the main communication channel for news,
 
 #### Exams
 
-All exams will be conducted on the University's computers. Personal computers are not allowed for exam purposes. The University's computers provide the XAMPP software (which includes a MySQL server), MySQL Workbench and the MySQL command-line client. Students are expected to be able to log in to Microsoft Teams and the Student Portal on the University's computers.
+All exams will be conducted on the University's computers, on **Windows** operating systems. Personal computers are not allowed for exam purposes. The University's computers provide the XAMPP software, which includes a MySQL server. **Only** the MySQL command-line client is allowed. Students are expected to be able to log in to both Microsoft Teams and the Student Portal on the University's computers.
 
 Booking is **required** and is available until **one week** before the exam.
   
