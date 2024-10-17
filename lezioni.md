@@ -10,7 +10,7 @@ layout: page
 | Relational model (2)             | 3 Oct       |  |
 | Relational algebra (1)           | 3 Oct       | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EXqJq4zFjcNEpqTiPcComLcBYZiNAmu2prGUwosJjKcXKg?e=dZTswE) |
 | Relational algebra (2)           | 16 Oct      |  
-| Relational algebra exercises (1) | 17 Oct      | [Exercise](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EecP0WPKuX9FslwQny7mPMEBm1-I1fs92ye9uNot8loEhg?e=CyiLe4) |
+| Relational algebra exercises (1) | 17 Oct      | Exercises: [insurance](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EecP0WPKuX9FslwQny7mPMEBm1-I1fs92ye9uNot8loEhg?e=CyiLe4), [journals](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EZU658Gjs4NKu2MlkyM3upMBD2RyBOEzcUYfKnGn9bcP9A?e=1hbCUb) |
 | Relational algebra exercises (2) | 23 Oct      | |
 | SQL basic concepts (1)           | 24 Oct      |
 | SQL basic concepts (2)           | 6 Nov  | |
