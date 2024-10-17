@@ -6,8 +6,8 @@ layout: default
 
 | Weekday          | Room |
 | :-------------: |      |
-| Wednesday 9-11   |  MI6 @ DMI  |
-| Thursday 17-19   |  MI6 @ DMI  |
+| Wednesday 9-11   |  126 @ DMI  |
+| Thursday 15-17   |  126 @ DMI  |
 
 #### Info
 {: #tag}
