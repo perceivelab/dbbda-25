@@ -14,7 +14,7 @@ layout: page
 | Relational algebra exercises (2) | 23 Oct      | |
 | SQL basic concepts (1)           | 24 Oct      | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EX0w37P8zMVLjHmenKn3PN4BGarvjbmXVV0QAXy0hgHjxg?e=GbyhML), [XAMPP](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EfHzAGpUrRdHsnH-hclujiIB6K5xGXJ-74ax0JzDQ4EP_Q?e=htAm6s) |
 | SQL basic concepts (2)           | 6 Nov  | |
-| SQL exercises |
+| SQL exercises | 7 Nov | Exercises: [journals](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ef-kbeaOLB1NkdUZi3XRvRcB3ULcWPjm7JVrLKSQO15x1A?e=uK1xN3), [pets](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQI2b9CXG2NHoteVw_iqVDIBYlrWHlx7dQEgPqDMnSBoHQ?e=pBmDyw), [employees](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESiTw_I6ErFJue1ihaL346ABhynG_6yWnZaq21nON6MwNQ?e=PK93my) |
 | SQL aggregate operators |
 | SQL exercises |
 | SQL transactions and views |
