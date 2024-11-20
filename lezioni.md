@@ -17,7 +17,7 @@ layout: page
 | SQL exercises (1) | 7 Nov | Exercises: [journals](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ef-kbeaOLB1NkdUZi3XRvRcB3ULcWPjm7JVrLKSQO15x1A?e=uK1xN3), [pets](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQI2b9CXG2NHoteVw_iqVDIBYlrWHlx7dQEgPqDMnSBoHQ?e=pBmDyw), [employees](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/ESiTw_I6ErFJue1ihaL346ABhynG_6yWnZaq21nON6MwNQ?e=PK93my) |
 | SQL exercises (2) | 13 Nov | |
 | SQL aggregate operators | 14 Nov | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EQcWHwplellMsMgcI4YSj1QBYHQtNQAUDla8-AoHT4OKxQ?e=zIkOAg) |
-| SQL exercises |
+| SQL exercises (3) | 20 Nov | Exercises: [insurance](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ed2HcKbmhilKnPA5mOg1xloBc-_4cChcc9EZJML4py8ZkQ?e=s0CKYw), [journals](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaLyMk9xYbpNorkY9_TC67UBT7HrZii0PwP0rufxuX5GaQ?e=tSZPlh) |
 | SQL transactions and views |
 | SQL exercises |
 | Non-relational models |
