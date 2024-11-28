@@ -20,6 +20,7 @@ layout: page
 | SQL exercises | 20 Nov | Exercises: [insurance](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Ed2HcKbmhilKnPA5mOg1xloBc-_4cChcc9EZJML4py8ZkQ?e=s0CKYw), [journals](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EaLyMk9xYbpNorkY9_TC67UBT7HrZii0PwP0rufxuX5GaQ?e=tSZPlh) |
 | SQL exercises | 21 Nov | |
 | SQL transactions and views | 27 Nov | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EULY3Xnv8sBOn8QyfGHPB-cBR_DzCYY76RUkXncvLaAj4w?e=MunV6C) |
+| SQL exercises | 28 Nov | Exercises: [catering](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUa51NpQbsxEgTKmgOZ1Ol0B17MYldc0plMS3zMxM6BSQw?e=ZojyIA), [movies](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Eeyblk0INmFKhwnXBaKPW6QB0wMtoNlvyjDddZnImnO2_A?e=3GFBDC) |
 | SQL exercises |
 | Non-relational models |
 | SQL exercises |
