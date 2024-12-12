@@ -21,7 +21,7 @@ layout: page
 | SQL exercises | 21 Nov | |
 | SQL transactions and views | 27 Nov | [Slides](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EULY3Xnv8sBOn8QyfGHPB-cBR_DzCYY76RUkXncvLaAj4w?e=MunV6C) |
 | SQL exercises | 28 Nov | Exercises: [catering](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/EUa51NpQbsxEgTKmgOZ1Ol0B17MYldc0plMS3zMxM6BSQw?e=ZojyIA), [movies](https://studentiunict-my.sharepoint.com/:b:/g/personal/simone_palazzo_unict_it/Eeyblk0INmFKhwnXBaKPW6QB0wMtoNlvyjDddZnImnO2_A?e=3GFBDC) |
-| SQL exercises |
+| SQL exercises | 12 Dec | Exercise: [vaccines](https://studentiunict-my.sharepoint.com/:u:/g/personal/simone_palazzo_unict_it/EY3v7t8SBR5Mlshv37OzvPsBO2JSm4tZ3sfAIFRSZ-5wVA?e=TmVnN6) |
 | Non-relational models |
 | SQL exercises |
 
