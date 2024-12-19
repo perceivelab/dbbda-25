@@ -24,6 +24,8 @@ The exams will focus on creating database tables, as per provided specifications
 
 If you pass the exam and are not satisfied with your grade, you can take the exam again. If you do, the previous grade is **cancelled**.
 
+Examples of past exams can be found [here](https://studentiunict-my.sharepoint.com/:f:/g/personal/simone_palazzo_unict_it/Eoj9Vo9X5uhBou5Q7-Mk1XUBesCjI4LdtlUA2--Mq_WDpw?e=NZ6kca).
+
 #### Contacts and office hours
 
 - [Simone Palazzo](mailto:simone.palazzo@unict.it)
